@@ -1,0 +1,9 @@
+
+name = "kas-line5a-multiuser"
+pages_build_output_dir = "./"
+compatibility_date = "2026-11-16"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kas-line5a-db"
+database_id = "92bf1fc8-ba88-42be-bda3-2b5447acd1db"
